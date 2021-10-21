@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Landy\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Landy\\.nuget\\packages"
+    ]
+  }
+}
